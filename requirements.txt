@@ -1,0 +1,8 @@
+#
+streamlit
+qrcode
+
+pillow
+
+
+# pip install -r requirements.txt
